@@ -25,16 +25,6 @@ Buzzer:The Buzzer is connected with code to the flame sensor and makes it that w
 
 
 
-
-
-
-
-
-
-
-
-
-
                                                                        Scheme of the project
 ![image](https://github.com/TheBear40/Proejct/assets/153540503/f1f445c5-13bb-43d2-aa8a-880e4f3128ba)
 
@@ -42,3 +32,16 @@ Buzzer:The Buzzer is connected with code to the flame sensor and makes it that w
                                                                          Flowchart of how the project and the code works
 ![image](https://github.com/TheBear40/Proejct/assets/153540503/07ff5d13-1380-4373-ad23-3de6767fc2db)
 
+
+
+
+
+
+
+
+
+
+
+Picutre of the Project itself
+![WhatsApp Image 2024-04-07 at 19 53 02_1c83a5b0](https://github.com/TheBear400/Proejct/assets/74928382/7c7911e4-5a10-49cc-9afb-a2d781e8748f)
+![WhatsApp Image 2024-04-07 at 19 53 03_09c12f1c](https://github.com/TheBear400/Proejct/assets/74928382/3ad290ab-39d1-4fe3-9d62-5d70d6bd1859)
